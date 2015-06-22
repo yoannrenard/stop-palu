@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: yoann <fox93160@hotmail.com>\n"
+"Language-Team: Mcréation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Near hotels"
+msgstr "A proximité"
+
+msgid "Faire un don"
+msgstr ""
+
+msgid "Accueil"
+msgstr ""
+
+msgid "Qui sommes-nous"
+msgstr ""
+
+msgid "Notre Programme"
+msgstr ""
+
+msgid "Nous Rejoindre"
+msgstr ""
+
+msgid "Nous Aider"
+msgstr ""
+
+msgid "Nous Contacter"
+msgstr ""
+
+msgid "Comment vaincre cette maladie ?"
+msgstr ""
+
+msgid "L'un des Objectifs du Millénaire approuvés en 2000 par 189 pays est de freiner la progression et inverser la tendance de l'incidence du paludisme d'ici 2015."
+msgstr ""
+
+msgid "A la faveur d'une mobilisation politique et financière croissante ces dernières années, une couverture complète des populations en moyens de prévention et de traitements a pu être mise en place dans certains pays, permettant de diminuer de moitié la prévalence du paludisme et la mortalité qui lui est associée."
+msgstr ""
+
+msgid "C'est le cas de l'Afrique du Sud, Algérie, Botswana, Cap Vert, Érythrée, Madagascar, Namibie, Rwanda, Sao Tomé-et-Principe, Swaziland, Zambie et Zanzibar en République Unie de Tanzanie."
+msgstr ""
+
+msgid "Dans tous ces pays, ce recul est lié à d'énergiques interventions de lutte antipaludique. Contrôler le paludisme n'est donc pas une utopie."
+msgstr ""
+
+msgid "Cependant, les ressources financières restent insuffisantes au regard des besoins."
+msgstr ""
+
+msgid "Par ailleurs, l'accès aux financements et leur bonne exécution suppose aussi des systèmes de santé renforcés."
+msgstr ""
+
+msgid "Les fonds disponibles pour lutter contre le paludisme augmentent régulièrement, notamment grâce à l'implication croissante du Fonds mondial de lutte contre le Sida, le Paludisme et la Tuberculose. "
+msgstr ""
+
+msgid "Depuis sa création en 2002, le montant global des subventions accordées à des programmes de prévention et de traitement du paludisme s'élève à plus de 4 milliards de dollars."
+msgstr ""
+
+msgid "Plus de 80 % des fonds sont destinés à l'Afrique, qui concentre près de 90 % des décès liés au paludisme."
+msgstr ""
+
+msgid "Cependant cette aide ne couvre que 25 % des besoins estimés. (Source : OMS, Lutte contre le paludisme, mars 2010)"
+msgstr ""
+
+msgid "D'une manière générale, le paludisme est à la base des causes de mortalités infantiles en Afrique."
+msgstr ""
+
+msgid "Cette leçon donne un aperçu sur la prévention et le traitement du paludisme."
+msgstr ""
+
+msgid "Dans beaucoup de pays Africains, le paludisme est traité en combinant l'usage des plantes médicinales avec celui orthodoxe de prises de comprimés. "
+msgstr ""
+
+msgid "Les recherches sont toujours en cours en vue d'éradiquer le paludisme en Afrique."
+msgstr ""
+
+msgid "Dans cette leçon, nous apprenons aux enfants les causes, le traitement et la prévention du paludisme dans l'espoir qu'eux aussi contribueront à l'éradication du paludisme en Afrique."
+msgstr ""
+
+msgid "STP et la lutte contre le paludisme"
+msgstr ""
+
+msgid "STP est une association régie par la loi du 1er juillet 1901."
+msgstr ""
+
+msgid "Elle a pour but de lutter contre le paludisme en Afrique et au Sénégal en particulier."
+msgstr ""
+
+msgid "Elle s'inscrit dans une perspective durable de sensibilisation des populations aux moyens de préventions en leur octroyant les ressources nécessaires."
+msgstr ""
+
+msgid "De même pourvoir apporter aux malades les soins nécessaires en leur offrant la gratuité des médicaments."
+msgstr ""
+
+msgid "Pour lutter contre le paludisme, l'action de STP repose sur 3 étapes :"
+msgstr ""
+
+msgid "sensibiliser, prévenir, traiter :"
+msgstr ""
+
+msgid "Sensibilisation : l'enjeu est de faire comprendre l'origine du paludisme, ses modes de transmissions et d'encourager les populations à utiliser les moustiquaires. "
+msgstr ""
+
+msgid "A cette fin, STP utilise des moyens les plus familiers et traditionnels pour s'adresser aux populations («le théâtre intéractif » ou « la causerie éducative »).<br/><br/>"
+msgstr ""
+
+msgid "Par ailleurs STP permet la réalisation d'émissions radiophoniques dédiées à la sensibilisation au paludisme qui connaissent d'excellentes audiences."
+msgstr ""
+
+msgid "Prévention : utilisation de moustiquaires imprégnées longue durée."
+msgstr ""
+
+msgid "C'est actuellement le seul moyen efficace de protection individuelle contre le paludisme."
+msgstr ""
+
+msgid "Assainissement du cadre de vie : l'environnement est un facteur fondamental dans la propagation du paludisme."
+msgstr ""
+
+msgid "STP mène un travail d'éducation aux questions d'hygiène et de propreté."
+msgstr ""
+
+msgid "Traitements : prise en charge précoce et efficace des malades."
+msgstr ""
+
+msgid "STP équipe les centres de santé, les renforce en formant du personnel."
+msgstr ""
+
+msgid "En cours de création"
+msgstr ""
+
+msgid "La lutte contre le paludisme est un enjeu majeur pour Stop Palu puisqu’il est une des causes majeures de la mortalité infantile au Sénégal comme dans de nombreux pays d’Afrique sub-saharienne."
+msgstr ""
+
+msgid "Sensibilisation"
+msgstr ""
+
+msgid "Une campagne de sensibilisation sera menait en amont dès le mois de mai en ciblant les zones les plus touchées."
+msgstr ""
+
+msgid "L'enjeu est de faire comprendre l'origine du paludisme, ses modes de transmissions et d'encourager les populations à utiliser les moustiquaires.<br/>"
+msgstr ""
+
+msgid "Stop Palu compte sur ses bénévoles qui seront au contact des populations locales et des structures mises en place (dispensaires et centres de santé) pour estimer leurs besoins en médicament."
+msgstr ""
+
+msgid "Moustiquaires imprégnées /Médicaments"
+msgstr ""
+
+msgid "Stop Palu va distribuer des milliers de moustiquaires imprégnées longue durée."
+msgstr ""
+
+msgid "Elles vont être remises aux organisations communautaires de base (centres de santé) avec priorité aux femmes enceintes et enfants de moins de 5 ans.<br/>"
+msgstr ""
+
+msgid "Mais aussi assurer le suivi et l'entretien des ses moustiquaires nous offrirons des kits d'insecticide de longue durée."
+msgstr ""
+
+msgid "Formation/Communication"
+msgstr ""
+
+msgid "Des relais communautaires seront formés sur la technique d'imprégnation des moustiquaires à partir des kits individuels."
+msgstr ""
+
+msgid "Ils aideront les personnes de leur communauté lors de la ré-imprégnation des moustiquaires."
+msgstr ""
+
+msgid "Hygiène/Assainissement"
+msgstr ""
+
+msgid "Stop Palu va mobiliser les collectivités locales, les comités d'hygiène /assainissement au moins une fois par mois, pour organiser des séances de nettoyage au niveau des villages et quartiers en vue de détruire les gîtes larvaires des moustiques et assainir le cadre de vie des populations surtout pendant les périodes hivernales, qui interviennent de mai à septembre."
+msgstr ""
+
+msgid "Pour réaliser tous ses projets Stop Palu compte développer un réseau de partenariat avec d'autres associations, professionnels de santé, banques et les entreprises "
+msgstr ""
+
+msgid "Infos Légales"
+msgstr ""
+
+msgid "Tous unis pour vaincre la maladie"
+msgstr ""
+
+msgid "Bienvenue sur le site de Stop-Palu consacré à la lutte contre le paludisme."
+msgstr ""
+
+msgid "Stop-Palu est une association qui a vu le jour au printemps 2011."
+msgstr ""
+
+msgid "Elle est le fruit d'une volonté commune d'un poignet de jeunes sénégalais. "
+msgstr ""
+
+msgid "Ils ont choisi d'apporter leur appui dans la lutte contre le paludisme pour contrer la maladie qui ne cesse de tuer de jour en jour."
+msgstr ""
+
+msgid "Toutes les 45 secondes une personne meurt du paludisme. "
+msgstr ""
+
+msgid "Malgré les progrès et les programmes de lutte contre la maladie, aucun vaccin n'est encore trouvé."
+msgstr ""
+
+msgid "Sauvons des vies, engagez-vous dans un projet concret !"
+msgstr ""
+
+msgid "Qu'est ce que le Paludisme ?"
+msgstr ""
+
+msgid "Le paludisme est une maladie grave, multiforme et mortelle."
+msgstr ""
+
+msgid "En savoir plus"
+msgstr ""
+
+msgid "L'un des Objectifs du Millénaire approuvés en 2000 par 189 pays est de freiner la progression et inverser la tendance de l'incidence du ..."
+msgstr ""
+
+msgid "STP est une association régie par la loi du 1er juillet 1901. Elle a pour but de lutter contre le paludisme en Afrique et au Sénégal en particulier. ..."
+msgstr ""
+
+msgid "Campagne de sensibilisation"
+msgstr ""
+
+msgid "Découvrir nos campagnes de sensibilisation"
+msgstr ""
+
+msgid "Définition du paludisme, ses modes de transmission, ses symptômes"
+msgstr ""
+
+msgid "Définition du paludisme"
+msgstr ""
+
+msgid "Le paludisme est une maladie grave, multiforme et mortelle. "
+msgstr ""
+
+msgid "A l'origine, le nom «paludisme» est dérivé du mot ancien «palud» qui signifie «marais», parce que les larves des moustiques s'y concentrent. "
+msgstr ""
+
+msgid "En 1880, les scientifiques ont découvert la véritable cause du paludisme : un parasite unicellulaire microscopique appelé le plasmodium, responsable de l'immense majorité des décès."
+msgstr ""
+
+msgid "Modes de transmission"
+msgstr ""
+
+msgid "Le parasite est le plus souvent transmis par les piqûres d'un moustique, l'anophèle femelle, qui a besoin de sang pour nourrir ses œufs. "
+msgstr ""
+
+msgid "L'anophèle femelle pique entre le coucher du soleil et l'aube."
+msgstr ""
+
+msgid "Autres modes de transmission : la contamination de la mère au fœtus, lors d'une greffe ou d'une transfusion sanguine."
+msgstr ""
+
+msgid "Les schémas de transmission et de morbidité varient énormément selon les régions et à l'intérieur des pays. "
+msgstr ""
+
+msgid "Ces variations tiennent aux différences entre les parasites et les moustiques vecteurs, aux conditions écologiques qui influent sur la transmission et à des facteurs économiques comme la pauvreté et l'accès à des soins et à des services de prévention efficaces."
+msgstr ""
+
+msgid "Symptômes"
+msgstr ""
+
+msgid "Les symptômes peuvent aller de la fièvre, fatigue, maux de tête, troubles digestifs... à des manifestations plus graves, mortelles, telles que l'anémie sévère, le coma, les convulsions généralisées, l'hypoglycémie, l'œdème pulmonaire, l'insuffisance rénale, les infections sévères, les hémorragies..."
+msgstr ""
+
+msgid "Les symptômes peuvent évoluer en quelques jours, parfois même en quelques heures. "
+msgstr ""
+
+msgid "Si cette évolution est rare chez le sujet adulte vivant en zone d'endémie, elle est plus fréquente chez l'enfant ou le sujet non immunisé."
+msgstr ""
+
+msgid "Les premiers symptômes doivent être pris en charge dans les bons délais (moins de 24 heures) pour éviter la suite fatale."
+msgstr ""
+
+msgid "Nous contacter"
+msgstr ""
+
+msgid "Nom"
+msgstr ""
+
+msgid "Prénom"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "(Pour vous répondre uniquement)"
+msgstr ""
+
+msgid "Téléphone"
+msgstr ""
+
+msgid "Objet"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Recopier le code affiché"
+msgstr ""
+
+msgid "Champs obligatoires"
+msgstr ""
+
+msgid "Vous pouvez rejoindre Stop Palu en toute simplicité."
+msgstr ""
+
+msgid "Cette adhésion marquera votre intérêt et votre engagement à soutenir la cause que nous défendons, nous espérons toucher un large public et une grande adhésion à notre combat contre le paludisme, mais aussi dans le domaine, sanitaire et social."
+msgstr ""
+
+msgid "Cette adhésion peut se faire sous deux formes:"
+msgstr ""
+
+msgid "Vous nous soutenez financièrement et vous nous aider à réaliser nos projets. Vous êtes tenu informé de nos activités et futurs projets."
+msgstr ""
+
+msgid "membre bienfaiteur"
+msgstr ""
+
+msgid "Vous participez pleinement aux activités de l'association, selon votre disponibilité, et sur une base de bénévolat."
+msgstr ""
+
+msgid "membre actif"
+msgstr ""
+
+msgid "Forme d'adhésion souhaitée ?"
+msgstr ""
+
+msgid "Par une recherche sur un moteur de recherche"
+msgstr ""
+
+msgid "Par bouche à oreille"
+msgstr ""
+
+msgid "Par une pub"
+msgstr ""
+
+msgid "Autres"
+msgstr ""
+
+msgid "Comment vous nous avez connu ?"
+msgstr ""
+
+msgid "Pour atteindre nos objectifs, nous avons besoin de VOUS. Avec votre participation, nous espérons toucher un large public et une grande adhésion à ce combat qui nous concerne tous."
+msgstr ""
+
+msgid "Qui Sommes Nous ?"
+msgstr ""
+
+msgid "Stop Palu est une association qui a vu le jour au printemps 2011. Elle est le fruit d'une volonté commune d'un poignet de jeunes bénévoles sénégalais."
+msgstr ""
+
+msgid "Ils ont choisi d'apporter leur appui dans la lutte contre le paludisme en Afrique mais particulièrement au Sénégal afin de contrer cette  maladie qui ne cesse de tuer de jour en jour."
+msgstr ""
+
+msgid "Notre démarche s'articule dans un esprit de rassemblement, de solidarité et de respect."
+msgstr ""
+
+msgid "Elle s'inscrit dans cette dynamique de générosité et de partage pour répondre aux attentes des populations locales."
+msgstr ""
+
+msgid "Le paludisme constitue le premier problème de santé publique au Sénégal."
+msgstr ""
+
+msgid "Il est la première cause de mortalité générale, surtout chez les enfants de moins de 5 ans."
+msgstr ""
+
+msgid "Plus de 50% de la demande des services de santé au niveau du pays tout au long de l'année, est lié au paludisme."
+msgstr ""
+
+msgid "C'est la raison pour laquelle, Stop Palu s'engage dans cette lutte féroce afin de réduire l'impact que cela a sur la population sénégalaise."
+msgstr ""
+
+msgid "Stop Palu adhéré à l'Initiative « Faire Reculer le Paludisme » lancée en octobre 1998 par l'OMS, l'UNICEF, la Banque Mondiale et le PNUD."
+msgstr ""
+
+msgid "Le 25 Avril représente la Journée mondiale contre le paludisme représente pour nous tous l'opportunité de faire la différence.<br/>"
+msgstr ""
+
+msgid "Que vous soyez une agence gouvernementale, une société, une association caritative ou un particulier, vous pouvez participer à la lutte contre le paludisme et contribuer à la réalisation de vastes progrès sur le plan de la santé et du développement humain.<br/>"
+msgstr ""
+
+msgid "Stop Palu a pour but de réduire l'impact du paludisme au Sénégal qui est essentiel à la réalisation des Objectifs du Millénaire pour le Développement ratifiés par l'ensemble des États membres des Nations Unies."
+msgstr ""
+
+msgid "Ceux-ci incluent non seulement la lutte contre la maladie, mais comportent également les objectifs liés aux droits et à la santé des femmes et des enfants, à l'accès à l'éducation et à la réduction de l'extrême pauvreté."
+msgstr ""
+
+msgid "Infos légales"
+msgstr ""
+
+msgid "Le Mot du Président"
+msgstr ""
+
+msgid "Vaincre le Paludisme, tel est l'engagement de <strong>STOP PALU"
+msgstr ""
+
+msgid "Toute une équipe de bénévoles œuvre et met en place des actions en faveur de personnes atteintes de paludisme au Sénégal et au-delà des frontières."
+msgstr ""
+
+msgid "Pour atteindre nos objectifs, nous <strong>sensibilisons</strong> le plus grand nombre de personnes animées par les mêmes valeurs, les mêmes intentions. "
+msgstr ""
+
+msgid "Avec cette opération, nous espérons toucher un large public et une grande adhésion à notre combat contre le paludisme."
+msgstr ""
+
+msgid "Je suis convaincu qu'avec notre projet, nous avons la bonne stratégie. "
+msgstr ""
+
+msgid "Nous devons redoubler d'efforts dans l'exécution de notre projet autour de notre mission « <strong>Accompagner, Sensibiliser et Prévenir</strong> « les populations locales pour leur apporter le meilleur du monde. La Sante"
+msgstr ""
+
+msgid "C'est un dur combat qu'il va falloir mener tous ensemble et j'attends une mobilisation sans faille de votre part."
+msgstr ""
+
+msgid "Activités en bref / Infos en bref"
+msgstr ""
+
